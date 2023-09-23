@@ -1,0 +1,17 @@
+table {
+    border: 1px solid black;
+    margin: auto;
+    padding: 10px;
+    min-width: 1000px;
+    text-align: left;
+}
+
+.heading {
+    background-color: green;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #cbc5c5;
+    padding: 10px;
+}
